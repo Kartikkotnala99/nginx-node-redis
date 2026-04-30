@@ -58,7 +58,7 @@ app.get('/', function (req, res) {
       </head>
       <body>
         <div class="card">
-          <h1>🌍 Welcome to Request Counter</h1>
+          <h1>🌍 Welcome to Requestt Counter</h1>
           <p>Running on: <span class="highlight">${os.hostname()}</span></p>
           <p>Total Visits: <span class="highlight">${numVisitsToDisplay}</span></p>
         </div>
